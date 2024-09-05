@@ -1,5 +1,4 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=adminewacc&show_icons=true&hide=contribs&count_private=true&theme=dark&bg_color=1F222E&border_color=30363D&title_color=F0FFF0&text_color=ABB2BF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adminewacc&layout=compact&exclude_repo=mcthesw.github.io&theme=dark&bg_color=1F222E&border_color=30363D&title_color=F0FFF0&text_color=ABB2BF)](https://github.com/anuraghazra/github-readme-stats)
 
 **Building the future of AI, one line of code at a time.** 
 
